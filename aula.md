@@ -49,3 +49,10 @@ function
 
 # Condicioanis 
 - [x] switch
+
+# Modulos em Node.js
+- [x] Importação de módulos (require, CommonJS)
+- [x] Biblioteca 'inquirer' para criar prompts interativos
+
+# Programação assíncronas e promises
+- [x] Uso de funções assíncronas (async/await)
