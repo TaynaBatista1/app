@@ -46,3 +46,6 @@ function
 
 # Estrutura de repetição
 - [x] While
+
+# Condicioanis 
+- [x] switch
