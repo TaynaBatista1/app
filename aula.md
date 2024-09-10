@@ -43,3 +43,6 @@ function
 - [x]Criar, passar argumento 
 - [x]Executar 
 - [x]Arrow function e uma name function
+
+# Estrutura de repetição
+- [x] While
