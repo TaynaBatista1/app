@@ -34,7 +34,7 @@ function
 
 ## Arrays 
 - [x]Uma lista que contém qualquer tipo de dados
-- [x]Metodos arrays: push, [find, forEacj, filter]:HOF (Higher order functions)
+- [x]Metodos arrays: push, [find, forEacj, filter, map]:HOF (Higher order functions)
 
 ## Objetos:
 - [x]Atributos e metodos
@@ -57,5 +57,9 @@ function
 - [x] Importação de módulos (require, CommonJS)
 - [x] Biblioteca 'inquirer' para criar prompts interativos
 
+## JSON
+-[] Javascript Object Notation (.json)
+-[] JSON.parse(): transforma de JSON para JS 
+-[] JSON.tringfy(): transforma de JS para JSON
 # Programação assíncronas e promises
 - [x] Uso de funções assíncronas (async/await)
