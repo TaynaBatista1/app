@@ -7,17 +7,17 @@ Como um lego, você irá utilizar peças para criar algoritimos, ou seja, para r
 
 ## Peças de uma linguagem
 - [x]comentarios
-- []Declaração de variáveis (const, let)
-- []Operadores (atribuição, concatenação, matemáticos, lógicos)
-- []Tipos de dados (string, nunber, boolean)
-- []Estruturas de dados (functions, object, array)
-- []Controle de fluxo (if,else)
-- []Estrutura de repetição (for, while)
+- [x]Declaração de variáveis (const, let)
+- [x]Operadores (atribuição, concatenação, matemáticos, lógicos)
+- [x]Tipos de dados (string, nunber, boolean)
+- [x]Estruturas de dados (functions, object, array)
+- [x]Controle de fluxo (if,else)
+- [x]Estrutura de repetição (for, while)
 
 # Fases da resolução de um problema 
-- []Coleta dos dados
-- []Processar essas informações
-- []Apresentar os dados
+- [x]Coleta dos dados
+- [x]Processar essas informações
+- [x]Apresentar os dados
 
 ## Escopos e variaveis
 
@@ -28,8 +28,9 @@ Number: 2, 1.4, R$100,00
 function
 
 # Operadores
-- [x] atribuição de valor =
-- [x] Operação de concatenação +
+- [x] atribuição de valor: =
+- [x] Operação de concatenação: +
+- [x] Operadores de comparação: == / != / < > / >= / <= 
 
 ## Arrays 
 - [x]Uma lista que contém qualquer tipo de dados
@@ -49,6 +50,7 @@ function
 
 # Condicioanis 
 - [x] switch
+- [x] if/else
 
 # Modulos em Node.js
 - [x] Importação de módulos (require, CommonJS)
