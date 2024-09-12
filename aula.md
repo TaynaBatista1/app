@@ -34,6 +34,7 @@ function
 
 ## Arrays 
 - [x]Uma lista que contém qualquer tipo de dados
+- [x]Metodos arrays: push, [find, forEacj, filter]:HOF (Higher order functions)
 
 ## Objetos:
 - [x]Atributos e metodos
