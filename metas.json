@@ -1,0 +1,22 @@
+[
+  {
+    "value": "Tomar 3l de agua por dia",
+    "checked": true
+  },
+  {
+    "value": "Estudar 4h por dia",
+    "checked": true
+  },
+  {
+    "value": "Correr ou caminhar 30mnt por dia",
+    "checked": true
+  },
+  {
+    "value": "Ler 2 paginas pelo menos ",
+    "checked": true
+  },
+  {
+    "value": "Jejum intermitente ",
+    "checked": false
+  }
+]
